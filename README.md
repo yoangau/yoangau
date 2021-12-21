@@ -1,4 +1,4 @@
-# Yoan Gauthier | [<img height="16" width="16" style="filter: invert(34%) sepia(86%) saturate(518%) hue-rotate(173deg) brightness(92%) contrast(94%);" src="https://simpleicons.org/icons/linkedin.svg" />](https://www.linkedin.com/in/yoangau/?locale=en_US) [<img height="16" width="64" src="img/calendly.svg" />](https://calendly.com/yoangau)
+# Yoan Gauthier | [<img height="16" width="16" src="img/logos/linkedin.svg" />](https://www.linkedin.com/in/yoangau/?locale=en_US) [<img height="16" width="64" src="img/logos/calendly.svg" />](https://calendly.com/yoangau)
 
 ## About
 ---
@@ -10,13 +10,13 @@
 
 _My projects are mainly self-hosted and use these common technologies_
 
-[<img height="32" width="32" style="filter: invert(38%) sepia(54%) saturate(3818%) hue-rotate(345deg) brightness(102%) contrast(88%);" src="https://simpleicons.org/icons/git.svg" />](https://git-scm.com/)
-[<img height="32" width="32" src="https://simpleicons.org/icons/github.svg" />](https://github.com/)
-[<img height="32" width="32" style="filter: invert(32%) sepia(41%) saturate(3143%) hue-rotate(183deg) brightness(96%) contrast(101%);" src="https://simpleicons.org/icons/visualstudiocode.svg" />](https://code.visualstudio.com/)
-[<img height="32" width="32" style="filter: invert(12%) sepia(100%) saturate(4101%) hue-rotate(353deg) brightness(97%) contrast(130%);" src="https://simpleicons.org/icons/ansible.svg" />](https://www.ansible.com/)
-[<img height="32" width="32" style="filter: invert(33%) sepia(22%) saturate(7435%) hue-rotate(213deg) brightness(97%) contrast(84%);" src="https://simpleicons.org/icons/kubernetes.svg" />](https://kubernetes.io/)
-[<img height="32" width="32" style="filter: invert(51%) sepia(41%) saturate(2339%) hue-rotate(181deg) brightness(93%) contrast(100%);" src="https://simpleicons.org/icons/docker.svg" />](https://www.docker.com/)
-[<img height="32" width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Traefik.logo.png/434px-Traefik.logo.png" />](https://www.docker.com/)
+[<img height="32" width="32" src="img/logos/git.svg" />](https://git-scm.com/)
+[<img height="32" width="32" src="img/logos/github.svg" />](https://github.com/)
+[<img height="32" width="32" src="img/logos/vscode.svg" />](https://code.visualstudio.com/)
+[<img height="32" width="32" src="img/logos/ansible.svg" />](https://www.ansible.com/)
+[<img height="32" width="32" src="img/logos/kubernetes.svg" />](https://kubernetes.io/)
+[<img height="32" width="64" src="img/logos/docker.svg" />](https://www.docker.com/)
+[<img height="32" width="28" src="img/logos/traefik.svg" />](https://traefik.io/)
 
 
 
@@ -30,9 +30,9 @@ _My projects are mainly self-hosted and use these common technologies_
 </p>
 
 #### Technologies
-[<img height="32" width="32" style="filter: invert(40%) sepia(94%) saturate(534%) hue-rotate(73deg) brightness(90%) contrast(89%);" src="https://simpleicons.org/icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" />](https://unity.com/)
-[<img height="32" width="28" src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" />](https://unity.com/)
+[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
+[<img height="32" width="32" src="img/logos/opencv.svg" />](https://opencv.org/)
 
 ---
 
@@ -51,15 +51,15 @@ The second one is a video stream sentiment analysis service for companies doing 
 #### Technologies
 _Backend_
 
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](https://www.python.org/)
-[<img height="32" width="32" style="filter: invert(22%) sepia(84%) saturate(3884%) hue-rotate(259deg) brightness(90%) contrast(100%);" src="https://simpleicons.org/icons/pytorchlightning.svg" />](https://www.pytorchlightning.ai/)
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />](https://jupyter.org/)
+[<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
+[<img height="32" width="160" src="img/logos/pytorchlightning.svg" />](https://www.pytorchlightning.ai/)
+[<img height="32" width="32" src="img/logos/jupyter.svg" />](https://jupyter.org/)
 
 _Frontend_
 
-[<img height="32" width="32" style="filter: invert(37%) sepia(12%) saturate(5224%) hue-rotate(181deg) brightness(106%) contrast(80%);" src="https://simpleicons.org/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" src="https://simpleicons.org/icons/nextdotjs.svg" />](https://nextjs.org/)
-[<img height="32" width="32" src="https://simpleicons.org/icons/vercel.svg" />](https://vercel.com/)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/nextjs.svg" />](https://nextjs.org/)
+[<img height="32" width="64" src="img/logos/vercel.svg" />](https://vercel.com/)
 
 ---
 
@@ -70,9 +70,9 @@ _Frontend_
 </p>
 
 #### Technologies
-[<img height="32" width="32" style="filter: invert(40%) sepia(94%) saturate(534%) hue-rotate(73deg) brightness(90%) contrast(89%);" src="https://simpleicons.org/icons/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32" width="32" src="https://simpleicons.org/icons/unity.svg" />](https://unity.com/)
-[<img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" />](https://www.blender.org/)
+[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
+[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
 
 ---
 
@@ -86,16 +86,16 @@ Laboulette is an exciting social game done by two friends right when pandemic st
 #### Technologies
 _Frontend_
 
-[<img height="32" width="32" style="filter: invert(37%) sepia(12%) saturate(5224%) hue-rotate(181deg) brightness(106%) contrast(80%);" src="https://simpleicons.org/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" style="filter: invert(69%) sepia(74%) saturate(442%) hue-rotate(161deg) brightness(102%) contrast(97%);" src="https://simpleicons.org/icons/react.svg" />](https://reactjs.org/)
-[<img height="32" width="32" style="filter: invert(32%) sepia(20%) saturate(3821%) hue-rotate(236deg) brightness(96%) contrast(88%);" src="https://simpleicons.org/icons/redux.svg" />](https://redux.js.org/)
-[<img height="32" width="32" style="filter: invert(73%) sepia(59%) saturate(4840%) hue-rotate(132deg) brightness(94%) contrast(104%);" src="https://simpleicons.org/icons/netlify.svg" />](https://www.netlify.com/)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
+[<img height="32" width="32" src="img/logos/redux.svg" />](https://redux.js.org/)
+[<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
 
 _Backend_
 
-[<img height="32" width="32" style="filter: invert(37%) sepia(12%) saturate(5224%) hue-rotate(181deg) brightness(106%) contrast(80%);" src="https://simpleicons.org/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" style="filter: invert(20%) sepia(84%) saturate(3171%) hue-rotate(333deg) brightness(91%) contrast(92%);" src="https://simpleicons.org/icons/nestjs.svg" />](https://nestjs.com/)
-[<img height="32" width="32" style="filter: invert(16%) sepia(51%) saturate(2281%) hue-rotate(172deg) brightness(95%) contrast(105%);" src="https://simpleicons.org/icons/sqlite.svg" />](https://www.sqlite.org/index.html)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/nestjs.svg" />](https://nestjs.com/)
+[<img height="32" width="64" src="img/logos/sqlite.svg" />](https://www.sqlite.org/index.html)
 
 
 ---
@@ -114,16 +114,16 @@ This project is a rebooted version of [geosense.net](https://web.archive.org/web
 _Frontend_
 
 
-[<img height="32" width="32" style="filter: invert(37%) sepia(12%) saturate(5224%) hue-rotate(181deg) brightness(106%) contrast(80%);" src="https://simpleicons.org/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" style="filter: invert(69%) sepia(74%) saturate(442%) hue-rotate(161deg) brightness(102%) contrast(97%);" src="https://simpleicons.org/icons/react.svg" />](https://reactjs.org/)
-[<img height="32" width="64" src="https://recoiljs.org/img/logo.svg" />](https://recoiljs.org)
-[<img height="32" width="32" style="filter: invert(73%) sepia(59%) saturate(4840%) hue-rotate(132deg) brightness(94%) contrast(104%);" src="https://simpleicons.org/icons/netlify.svg" />](https://www.netlify.com/)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
+[<img height="32" width="64" src="img/logos/recoiljs.svg" />](https://recoiljs.org)
+[<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
 
 _Backend_
 
-[<img height="32" width="32" style="filter: invert(37%) sepia(12%) saturate(5224%) hue-rotate(181deg) brightness(106%) contrast(80%);" src="https://simpleicons.org/icons/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" style="filter: invert(20%) sepia(84%) saturate(3171%) hue-rotate(333deg) brightness(91%) contrast(92%);" src="https://simpleicons.org/icons/nestjs.svg" />](https://nestjs.com/)
-[<img height="32" width="32" style="filter: invert(16%) sepia(51%) saturate(2281%) hue-rotate(172deg) brightness(95%) contrast(105%);" src="https://simpleicons.org/icons/sqlite.svg" />](https://www.sqlite.org/index.html)
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/nestjs.svg" />](https://nestjs.com/)
+[<img height="32" width="64" src="img/logos/sqlite.svg" />](https://www.sqlite.org/index.html)
 
 
 ---
