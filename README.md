@@ -4,7 +4,7 @@
 ---
 ## Education
 ### __2020-2021__ | Master of Management Innovation & Entrepreneurship [@Smith School of Business](https://smith.queensu.ca/), [@Queen's University](https://www.queensu.ca/)
-### __2016-2020__ | Bachelor of Engineering, Computer Science - Artificial Intelligence and Data Science [@Polytechnique Montréal](https://www.polymtl.ca/)
+### __2016-2020__ | Bachelor of Software Engineering - Artificial Intelligence and Data Science [@Polytechnique Montréal](https://www.polymtl.ca/)
 ---
 ## Projects
 
