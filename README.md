@@ -128,6 +128,21 @@ _Backend_
 
 ---
 
+### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
+
+<p align="center">
+  <img width="500" src="img/ninja-game.gif">
+</p>
+
+This is my gateway project into game development. Enjoy a 5 minutes playing session.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
+[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
+
+---
+
 ### __2020 | Laboulette | [website](https://laboulette.fun)__
 
 <p align="center">
@@ -170,20 +185,6 @@ This blog template was an exploratory project to improve technical skills. The c
 #### Repository
 [![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=fictional-robot&theme=ayu-mirage)](https://github.com/yoangau/fictional-robot)
 
----
-
-### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
-
-<p align="center">
-  <img width="500" src="img/ninja-game.gif">
-</p>
-
-This is my gateway project into game development. Enjoy a 5 minutes playing session and enjoy.
-
-#### Technologies
-[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
-[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
 ---
 
 ### __2020 | Synthetic Dataset Generation & Training__
