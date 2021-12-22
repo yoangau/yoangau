@@ -61,6 +61,7 @@ _Backend_
 _Frontend_
 
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
 [<img height="32" width="32" src="img/logos/nextjs.svg" />](https://nextjs.org/)
 [<img height="32" width="64" src="img/logos/vercel.svg" />](https://vercel.com/)
 
@@ -79,6 +80,53 @@ This project is a learning experience with 3D online game developement. Free ass
 [<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
 [<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
+
+---
+
+### __2021 | Art GAN__
+<p align="center">
+  <img width="500" src="img/art-gan.gif">
+</p>
+<p align="center">
+  <img width="500" src="img/art-gan.png">
+</p>
+
+This GAN project used 100 pictures from an abstract visual [artist](#2020--simple-artist-website--website)'s art collection to train and generate a variety of original variants.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
+[<img height="32" width="32" src="img/logos/pytorch.svg" />](https://pytorch.org/)
+[<img height="32" width="32" src="img/logos/colab.svg" />](https://colab.research.google.com/)
+
+
+---
+
+### __2021 | Geosense | [website](https://geosense.io/)__
+
+<p align="center">
+  <img width="500" src="img/geosense.gif">
+</p>
+
+This project is a rebooted version of [geosense.net](https://web.archive.org/web/20120208085752/http://geosense.net/). The old website domain has been reclaimed by another organization. It is an open-source work in progress. The game is simple to learn and fun to play. It's purpose is to increase knowledge of geo-localization of cities and countries around the world.
+ 
+#### Technologies
+_Frontend_
+
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
+[<img height="32" width="64" src="img/logos/recoiljs.svg" />](https://recoiljs.org)
+[<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
+
+_Backend_
+
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/nestjs.svg" />](https://nestjs.com/)
+[<img height="32" width="64" src="img/logos/sqlite.svg" />](https://www.sqlite.org/index.html)
+
+#### Repositories
+
+[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=geosense-server&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
+[![Geosense Client](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=geosense-client&theme=ayu-mirage)](https://github.com/yoangau/geosense-client)
 
 ---
 
@@ -108,53 +156,6 @@ _Backend_
 
 ---
 
-### __2020 | Geosense | [website](https://geosense.io/)__
-
-<p align="center">
-  <img width="500" src="img/geosense.gif">
-</p>
-
-This project is a rebooted version of [geosense.net](https://web.archive.org/web/20120208085752/http://geosense.net/). The old website domain has been reclaimed by another organization. It is an open-source work in progress. The game is simple to learn and fun to play. It's purpose is to increase knowledge of geo-localization of cities and countries around the world.
- 
-#### Technologies
-_Frontend_
-
-[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
-[<img height="32" width="64" src="img/logos/recoiljs.svg" />](https://recoiljs.org)
-[<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
-
-_Backend_
-
-[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
-[<img height="32" width="32" src="img/logos/nestjs.svg" />](https://nestjs.com/)
-[<img height="32" width="64" src="img/logos/sqlite.svg" />](https://www.sqlite.org/index.html)
-
-#### Repositories
-
-[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=geosense-server&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
-[![Geosense Client](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=geosense-client&theme=ayu-mirage)](https://github.com/yoangau/geosense-client)
-
----
-
-### __2020 | Art GAN__
-<p align="center">
-  <img width="500" src="img/art-gan.gif">
-</p>
-<p align="center">
-  <img width="500" src="img/art-gan.png">
-</p>
-
-This GAN project used 100 pictures from an abstract visual [artist](#2020--simple-artist-website--website)'s art collection to train and generate a variety of original variants.
-
-#### Technologies
-[<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
-[<img height="32" width="32" src="img/logos/pytorch.svg" />](https://pytorch.org/)
-[<img height="32" width="32" src="img/logos/colab.svg" />](https://colab.research.google.com/)
-
-
----
-
 ### __2020 | Blog Template | [website](https://fictionalrobot.netlify.app/)__
 
 <p align="center">
@@ -173,21 +174,7 @@ This blog template was an exploratory project to improve technical skills. The c
 
 ---
 
-
-### __2020 | Simple Artist Website | [website](https://www.laurencebelzile.com/#/)__
-
-<p align="center">
-  <img width="500" src="img/artist-website.gif">
-</p>
-
-This website was completed after I discovered my significant other was paying for wordpress and was not even happy with what it offered. Let's just say: Occam's razor.
-
-#### Technologies
-[<img height="32" width="32" src="img/logos/javascript.svg" />](https://www.javascript.com/)
-[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
-
-#### Repository
-[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
+### __2021 | My First Game__
 
 ---
 
@@ -222,6 +209,24 @@ This project was perform as a school project with a team of 5 students. Its goal
 [<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
 [<img height="32" width="32" src="img/logos/d3.svg" />](https://d3js.org/)
 
+
+---
+
+### __2019 | Simple Artist Website | [website](https://www.laurencebelzile.com/#/)__
+
+<p align="center">
+  <img width="500" src="img/artist-website.gif">
+</p>
+
+This website was completed after I discovered my significant other was paying for wordpress and was not even happy with what it offered. Let's just say: Occam's razor.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/javascript.svg" />](https://www.javascript.com/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
+
+#### Repository
+[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
+
 ---
 
 ## Professional Experience
@@ -236,3 +241,4 @@ This project was perform as a school project with a team of 5 students. Its goal
 
 
 [//]: <> (Colors done with: https://codepen.io/sosuke/pen/Pjoqqp)
+[<img height="32" width="32" src="img/logos/expo.svg" />](https://docs.expo.dev/)
