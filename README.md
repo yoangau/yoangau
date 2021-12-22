@@ -18,9 +18,7 @@ _My projects are mainly self-hosted and use these common technologies_
 [<img height="32" width="32" src="img/logos/docker.svg" />](https://www.docker.com/)
 [<img height="32" width="28" src="img/logos/traefik.svg" />](https://traefik.io/)
 
-
-
-[![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/geosense-client)
+[![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/self-hosted-services)
 
 ---
 
@@ -170,12 +168,22 @@ This blog template was an exploratory project to improve technical skills. The c
 [<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
 
 #### Repository
-[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=fictional-robot&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
+[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=fictional-robot&theme=ayu-mirage)](https://github.com/yoangau/fictional-robot)
 
 ---
 
-### __2021 | My First Game__
+### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
 
+<p align="center">
+  <img width="500" src="img/ninja-game.gif">
+</p>
+
+This is my gateway project into game development. Enjoy a 5 minutes playing session and enjoy.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
+[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
 ---
 
 ### __2020 | Synthetic Dataset Generation & Training__
@@ -225,7 +233,7 @@ This website was completed after I discovered my significant other was paying fo
 [<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
 
 #### Repository
-[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/geosense-server)
+[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/laurence-belzile-website)
 
 ---
 
