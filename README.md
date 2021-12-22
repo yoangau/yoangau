@@ -192,7 +192,7 @@ This blog template was an exploratory project to improve technical skills. The c
   <img width="500" src="img/pi4.png">
 </p>
 
-This is the final project of the [engineering degree](#-2016-2020--bachelor-of-engineering-computer-science---artificial-intelligence-and-data-science-polytechnique-montréal). It was done in partnership with a Montreal XR company. THe goal was to train a detection model over a generated synthetic dataset where the only input was an `.obj` file. The exploration was interesting and allowed to create fully automated and customizable pipeline. 
+This is the final project of the [engineering degree](#-2016-2020--bachelor-of-engineering-computer-science---artificial-intelligence-and-data-science-polytechnique-montréal). It was done in partnership with a Montreal XR company. The goal was to train a detection model over a generated synthetic dataset where the only input was an `.obj` file. The exploration was interesting and allowed to create fully automated and customizable pipeline. 
 
 #### Technologies
 [<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
