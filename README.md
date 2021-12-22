@@ -15,7 +15,7 @@ _My projects are mainly self-hosted and use these common technologies_
 [<img height="32" width="32" src="img/logos/vscode.svg" />](https://code.visualstudio.com/)
 [<img height="32" width="32" src="img/logos/ansible.svg" />](https://www.ansible.com/)
 [<img height="32" width="32" src="img/logos/kubernetes.svg" />](https://kubernetes.io/)
-[<img height="32" width="64" src="img/logos/docker.svg" />](https://www.docker.com/)
+[<img height="32" width="32" src="img/logos/docker.svg" />](https://www.docker.com/)
 [<img height="32" width="28" src="img/logos/traefik.svg" />](https://traefik.io/)
 
 
@@ -55,7 +55,7 @@ The second one is a video stream sentiment analysis service for companies doing 
 _Backend_
 
 [<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
-[<img height="32" width="160" src="img/logos/pytorchlightning.svg" />](https://www.pytorchlightning.ai/)
+[<img height="32" width="32" src="img/logos/pytorchlightning.svg" />](https://www.pytorchlightning.ai/)
 [<img height="32" width="32" src="img/logos/colab.svg" />](https://colab.research.google.com/)
 
 _Frontend_
@@ -149,7 +149,7 @@ This GAN project used 100 pictures from an abstract visual [artist](#2020--simpl
 
 #### Technologies
 [<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
-[<img height="32" width="128" src="img/logos/pytorch.svg" />](https://pytorch.org/)
+[<img height="32" width="32" src="img/logos/pytorch.svg" />](https://pytorch.org/)
 [<img height="32" width="32" src="img/logos/colab.svg" />](https://colab.research.google.com/)
 
 
@@ -191,19 +191,36 @@ This website was completed after I discovered my significant other was paying fo
 
 ---
 
+### __2020 | Synthetic Dataset Generation & Training__
+<p align="center">
+  <img width="500" src="img/pi4.png">
+</p>
 
+This is the final project of the [engineering degree](#-2016-2020--bachelor-of-engineering-computer-science---artificial-intelligence-and-data-science-polytechnique-montréal). It was done in partnership with a Montreal XR company. THe goal was to train a detection model over a generated synthetic dataset where the only input was an `.obj` file. The exploration was interesting and allowed to create fully automated and customizable pipeline. 
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
+[<img height="32" width="32" src="img/logos/javascript.svg" />](https://www.javascript.com/)
+[<img height="32" width="32" src="img/logos/docker.svg" />](https://www.docker.com/)
+[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
+[<img height="32" width="32" src="img/logos/opencv.svg" />](https://opencv.org/)
+[<img height="32" width="32" src="img/logos/pytorch.svg" />](https://pytorch.org/)
+[<img height="32" width="32" src="img/logos/tensorflow.svg" />](https://pytorch.org/)
+
+---
+  
 ### __2020 | Data Visualisation Project__
 
 <p align="center">
   <img width="500" src="img/dataviz.gif">
 </p>
 
-This project was perform as a school project with a team of 5 students. Its goal was to visualize climate change in Canada and explore diverse data representation methods. This project was a collaboration between @Polytechnique Montréal and @CBC/Radio-Canada
+This project was perform as a school project with a team of 5 students. Its goal was to visualize climate change in Canada and explore diverse data representation methods. This project was a collaboration between [@Polytechnique Montréal](#-2016-2020--bachelor-of-engineering-computer-science---artificial-intelligence-and-data-science-polytechnique-montréal) and [@CBC/Radio-Canada](https://cbc.radio-canada.ca/)
 
 #### Technologies
 [<img height="32" width="32" src="img/logos/javascript.svg" />](https://www.javascript.com/)
 [<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
-[<img height="32" width="32" src="img/logos/d3.svg" />](https://reactjs.org/)
+[<img height="32" width="32" src="img/logos/d3.svg" />](https://d3js.org/)
 
 ---
 
