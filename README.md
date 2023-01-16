@@ -1,4 +1,4 @@
-# Yoan Gauthier | [<img height="16" width="16" src="img/logos/linkedin.svg" />](https://www.linkedin.com/in/yoangau/?locale=en_US) [<img height="16" width="64" src="img/logos/calendly.svg" />](https://calendly.com/yoangau)
+# Yoan Gauthier | [<img height="16" width="16" src="img/logos/linkedin.svg" />](https://www.linkedin.com/in/yoangau/?locale=en_US)
 
 ## About
 
