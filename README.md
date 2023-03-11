@@ -102,7 +102,7 @@ This GAN project used 100 pictures from an abstract visual [artist](#2020--simpl
 
 ---
 
-### __2021 | Geosense | [website](https://geosense.io/)__
+### __2021 | Geosense | [website](https://geosense.netlify.app/)__
 
 <p align="center">
   <img width="500" src="img/geosense.gif">
