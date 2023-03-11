@@ -2,7 +2,7 @@
 
 ## About
 
-I love coding and learning here is the main projects I've had in the previous years. This acts more as a portfolio than a resume. Checkout my [<img height="16" width="16" src="img/logos/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/yoangau/?locale=en_US) for my professional experience and don't be shy to contact me anywhere you want.
+Welcome to my portfolio, this list most of my projects. If the code is private don't hesitate to request access. Checkout my [<img height="16" width="16" src="img/logos/linkedin.svg" /> LinkedIn](https://www.linkedin.com/in/yoangau/?locale=en_US) for my professional experience and don't be shy to contact me (except don't cold call).
 
 ---
 ## Education
