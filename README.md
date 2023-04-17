@@ -25,6 +25,23 @@ _My projects are mainly self-hosted and use these common technologies_
 
 ---
 
+### __2023 | Nolite | [website](https://nolite.fyi)__ 
+
+<p align="center">
+  <img width="500" src="img/nolite.gif">
+</p>
+
+This project was done in a day. My purpose was to create a similar tool to pastebin, but for markdown notes. It let's user create rich markdown pages that are sharable, that can be copied to new. For now, pages disapear after 1 day, but the app might be extended to have custom user defined parameters.
+
+#### Technologies
+[<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
+[<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
+[<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
+[<img height="32" width="32" src="img/logos/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
+[<img height="32" width="32" src="img/logos/react-md-editor.svg" />](https://uiwjs.github.io/react-md-editor/)
+
+---
+
 ### __2021 | Mobile AR Sports Game | [website](https://pholi.io)__ 
 
 <p align="center">
