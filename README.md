@@ -263,7 +263,7 @@ This project was perform as a school project with a team of 5 students. Its goal
   <img width="500" src="img/artist-website.gif">
 </p>
 
-This website was completed after I discovered my significant other was paying for wordpress and was not even happy with what it offered. Let's just say: Occam's razor.
+This website was completed after I discovered my significant other was paying for wordpress and was not even happy with what it offered. It was created in a way that allows her to modify the information in the code easily and offers i18n functionalities.
 
 #### Technologies
 [<img height="32" width="32" src="img/logos/javascript.svg" />](https://www.javascript.com/)
