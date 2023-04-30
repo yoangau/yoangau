@@ -22,7 +22,7 @@ _My projects are mainly self-hosted and use these common technologies_
 [<img height="32" width="28" src="img/logos/traefik.svg" />](https://traefik.io/)
 
 [![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/self-hosted-services)
-
+<!--
 ---
 
 ### __2023 | Nolite | [website](https://nolite.fyi)__ 
@@ -39,7 +39,7 @@ This project was completed in one day using serverless technologies. My objectiv
 [<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
 [<img height="32" width="32" src="img/logos/dynamodb.svg" />](https://aws.amazon.com/dynamodb/)
 [<img height="32" width="32" src="img/logos/react-md-editor.svg" />](https://uiwjs.github.io/react-md-editor/)
-
+-->
 ---
 
 ### __2023 | Mushroom Unloaded__ 
