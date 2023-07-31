@@ -30,7 +30,7 @@ _My projects are mainly self-hosted and use these common technologies_
   <img width="500" src="img/nolite.gif">
 </p>
 
-This project was completed in one day using serverless technologies. My objective was to create a tool similar to Pastebin, but for markdown notes. It allows users to create rich markdown pages that can be easily shared and copied. Currently, pages disappear after one day, but the app may be expanded to include custom user-defined parameters such as ttl, endpoints, and length - all without a backend!
+This project was completed in one day using serverless technologies. My objective was to create a tool similar to Pastebin, but for markdown notes. It allows users to create rich markdown pages that can be easily shared and copied. Notes can be end-to-end encrypted, password protected and have a time to leave - all without a backend in a serverless application! When a page expires you still retain the local cache copy to renew. It is also possible to create a custom namespace/name url using deterministic uuids keeping all the info on the clients.
 
 #### Technologies
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
