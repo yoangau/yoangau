@@ -73,7 +73,7 @@ The goal of this project is to create fun and healthy interactions with screens 
 
 ---
 
-### __2021 | Klap AI | [website](https://klap.ai)__
+### __2021 | Klap AI | [website](https://klap-ai.vercel.app/)__
 
 <p align="center">
   <img width="250" src="img/klap-ai-logo.png">
