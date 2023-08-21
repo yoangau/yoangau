@@ -276,7 +276,7 @@ This website was completed after I discovered my significant other was paying fo
 
 
 ## Public Github Stats
-![yoangau Top Languages](https://github-readme-stats-git-main-yoangau.vercel.app/api/top-langs/?username=yoangau&langs_count=8&count_private=true&layout=compact&hide=jupyter+notebook,scss,html,cmake,VHDL,Verilog,SystemVerilog,Ada,Tcl,C,Cpp,HLSL,ShaderLab,Assembly&theme=ayu-mirage)
+![yoangau Top Languages](https://github-readme-stats-git-main-yoangau.vercel.app/api/top-langs/?username=yoangau&langs_count=8&count_private=true&layout=compact&hide=jupyter+notebook,scss,html,cmake,VHDL,Verilog,SystemVerilog,Ada,Tcl,C,c%2B%2B,HLSL,ShaderLab,Assembly&theme=ayu-mirage)
 ![yoangau GitHub Stats](https://github-readme-stats-git-main-yoangau.vercel.app/api?username=yoangau&hide_rank=true&theme=ayu-mirage&show_icons=true)
 
 
