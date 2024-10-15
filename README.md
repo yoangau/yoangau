@@ -235,7 +235,7 @@ This project was perform as a school project with a team of 5 students. Its goal
 
 ---
 
-### __2019 | Simple Artist Website | [website](https://www.laurencebelzile.com/#/)__
+### __2019 | Artist Website | [website](https://laurencebelzile.com)__
 
 <p align="center">
   <img width="500" src="img/artist-website.gif">
@@ -249,7 +249,7 @@ This website was completed after I discovered my significant other was paying fo
 [<img height="32" width="32" src="img/logos/netlify.svg" />](https://www.netlify.com/)
 
 #### Repository
-[![Geosense Server](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/laurence-belzile-website)
+[![Laurence Belzile Website](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=laurence-belzile-website&theme=ayu-mirage)](https://github.com/yoangau/laurence-belzile-website)
 
 ---
 
