@@ -23,6 +23,16 @@ _My projects are mainly self-hosted and use these common technologies_
 
 [![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/self-hosted-services)
 
+### _2024 | Todocaml
+
+<p align="center">
+  <img width="500" src="img/todocaml.gif">
+</p>
+
+A simple to-do list application built in OCaml that allows users to add, complete, edit, and save tasks. This project serves as a practical learning tool to explore functional programming concepts and OCaml's features.
+
+#### Repository
+[![Todocaml](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=todocaml&theme=ayu-mirage)](https://github.com/yoangau/todocaml)
 
 ### __2023 | Nolite | [website](https://nolite.fyi)__ 
 
