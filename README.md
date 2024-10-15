@@ -23,7 +23,7 @@ _My projects are mainly self-hosted and use these common technologies_
 
 [![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/self-hosted-services)
 
-### _2024 | Todocaml
+### __2024 | Todocaml__
 
 <p align="center">
   <img width="500" src="img/todocaml.gif">
