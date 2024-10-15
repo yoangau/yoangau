@@ -100,7 +100,7 @@ _Frontend_
 
 ---
 
-### __2021 | 3D Online Rpg Multiplayer Roguelike Game__ 
+[//]: # (### __2021 | 3D Online Rpg Multiplayer Roguelike Game__ 
 
 <p align="center">
   <img width="500" src="img/roguelike.gif">
@@ -113,7 +113,7 @@ This is a long term project with whomever wants to join. Free assets are used to
 [<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
 [<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
 
----
+---)
 
 ### __2021 | Art GAN__
 <p align="center">
@@ -163,7 +163,7 @@ _Backend_
 
 ---
 
-### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
+[//]: # (### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
 
 <p align="center">
   <img width="500" src="img/ninja-game.gif">
@@ -176,7 +176,7 @@ This is my gateway project into game development. Enjoy a 5 minutes playing sess
 [<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
 [<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
 
----
+---)
 
 ### __2020 | Laboulette | [website](https://laboulette.fun)__
 
