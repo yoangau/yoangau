@@ -100,21 +100,6 @@ _Frontend_
 
 ---
 
-[//]: # (### __2021 | 3D Online Rpg Multiplayer Roguelike Game__ 
-
-<p align="center">
-  <img width="500" src="img/roguelike.gif">
-</p>
-
-This is a long term project with whomever wants to join. Free assets are used to prototype and test the mechanics. The goal is to go as far as possible using only free time and staying as lean as possible while doing constant play tests. I want to create a game that can be picked-up by a group of friends who want to play mmo-like tank/healer/dps one night; to have fun while being challenged and not to worry about time commitment (my group of friends falls directly in this category).
-
-#### Technologies
-[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
-[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
-
----)
-
 ### __2021 | Art GAN__
 <p align="center">
   <img width="500" src="img/art-gan.gif">
@@ -130,7 +115,6 @@ This GAN project used 100 pictures from an abstract visual [artist](#2020--simpl
 [<img height="32" width="32" src="img/logos/python.svg" />](https://www.python.org/)
 [<img height="32" width="32" src="img/logos/pytorch.svg" />](https://pytorch.org/)
 [<img height="32" width="32" src="img/logos/colab.svg" />](https://colab.research.google.com/)
-
 
 ---
 
@@ -163,21 +147,6 @@ _Backend_
 
 ---
 
-[//]: # (### __2021 | My First Game | [play](https://play.unity.com/mg/other/myfirstgame-31150)__
-
-<p align="center">
-  <img width="500" src="img/ninja-game.gif">
-</p>
-
-This is my gateway project into game development. Enjoy a 5 minutes playing session and it was done in one day.
-
-#### Technologies
-[<img height="32" width="32" src="img/logos/csharp.svg" />](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[<img height="32" width="32" src="img/logos/unity.svg" />](https://unity.com/)
-[<img height="32" width="32" src="img/logos/blender.svg" />](https://www.blender.org/)
-
----)
-
 ### __2020 | Laboulette | [website](https://laboulette.fun)__
 
 <p align="center">
@@ -185,7 +154,6 @@ This is my gateway project into game development. Enjoy a 5 minutes playing sess
 </p>
 
 Laboulette is an exciting social game done by two friends right when pandemic started that allows to play the french version of _fishbowl_ with friends online. The project went through a testing phase with end-user testing and release phase where core feature were added progressively.
-
 
 #### Technologies
 _Frontend_
@@ -200,7 +168,6 @@ _Backend_
 [<img height="32" width="32" src="img/logos/typescript.svg" />](https://www.typescriptlang.org/)
 [<img height="32" width="32" src="img/logos/nestjs.svg" />](https://nestjs.com/)
 [<img height="32" width="64" src="img/logos/sqlite.svg" />](https://www.sqlite.org/index.html)
-
 
 ---
 
@@ -253,7 +220,6 @@ This project was perform as a school project with a team of 5 students. Its goal
 [<img height="32" width="32" src="img/logos/react.svg" />](https://reactjs.org/)
 [<img height="32" width="32" src="img/logos/d3.svg" />](https://d3js.org/)
 
-
 ---
 
 ### __2019 | Simple Artist Website | [website](https://www.laurencebelzile.com/#/)__
@@ -274,11 +240,9 @@ This website was completed after I discovered my significant other was paying fo
 
 ---
 
-
 ## Public Github Stats
 ![yoangau Top Languages](https://github-readme-stats-git-main-yoangau.vercel.app/api/top-langs/?username=yoangau&langs_count=8&count_private=true&layout=compact&hide=jupyter+notebook,scss,html,cmake,VHDL,Verilog,SystemVerilog,Ada,Tcl,C,c%2B%2B,HLSL,ShaderLab,Assembly&theme=ayu-mirage)
 ![yoangau GitHub Stats](https://github-readme-stats-git-main-yoangau.vercel.app/api?username=yoangau&hide_rank=true&theme=ayu-mirage&show_icons=true)
-
 
 
 [//]: <> (Colors done with: https://codepen.io/sosuke/pen/Pjoqqp)
