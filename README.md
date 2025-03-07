@@ -23,6 +23,21 @@ _My projects are mainly self-hosted and use these common technologies_
 
 [![Self Hosted](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=self-hosted-services&theme=ayu-mirage)](https://github.com/yoangau/self-hosted-services)
 
+### __2024 | Zamlbie__
+
+<p align="center">
+  <img width="300" src="img/zamlbie.gif">
+</p>
+
+Zamlbie is a networked multiplayer TUI (Text-based User Interface) zombie infection game written in OCaml. Players can either fight to survive as humans or infect others as zombies in a multi-level themed game environment. The game leverages ATD for type definitions and Dream for both RESTful API and WebSocket connections, featuring dedicated server/client architecture.
+
+#### Repository
+[![Todocaml](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=zamlbie&theme=ayu-mirage)](https://github.com/yoangau/todocaml)
+
+#### Technologies
+[<img height="32" width="32" src="https://github.com/ocaml/ocaml-logo/blob/master/Colour/SVG/colour-transparent-icon.svg" />](https://ocaml.org/)
+
+
 ### __2024 | Todocaml__
 
 <p align="center">
