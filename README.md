@@ -32,7 +32,7 @@ _My projects are mainly self-hosted and use these common technologies_
 Zamlbie is a networked multiplayer TUI (Text-based User Interface) zombie infection game written in OCaml. Players can either fight to survive as humans or infect others as zombies in a multi-level themed game environment. The game leverages ATD for type definitions and Dream for both RESTful API and WebSocket connections, featuring dedicated server/client architecture.
 
 #### Repository
-[![Todocaml](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=zamlbie&theme=ayu-mirage)](https://github.com/yoangau/todocaml)
+[![Zamlbie](https://github-readme-stats.vercel.app/api/pin/?username=yoangau&repo=zamlbie&theme=ayu-mirage)](https://github.com/yoangau/zamlbie)
 
 #### Technologies
 [<img height="32" width="32" src="https://github.com/ocaml/ocaml-logo/blob/master/Colour/SVG/colour-transparent-icon.svg" />](https://ocaml.org/)
